@@ -20,7 +20,7 @@ class Main {
     
   //number of houses
     Scanner housesScanner = new Scanner(System.in);
-    System.out.println("How many houses do you want to go to?");
+    System.out.println("How many houses do you want to go to? Enter an integer bellow.");
     int housesNum = housesScanner.nextInt();
     
       //gameplay.. Calling the trick or treats
